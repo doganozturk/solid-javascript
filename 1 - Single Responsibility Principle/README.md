@@ -1,6 +1,6 @@
 # tl;dr
 
-> A class should have only one reason to change
+> A class should have only one reason to change.
 
 ## Original Code & Article
 
