@@ -6,4 +6,4 @@
 
 [JSFiddle Link](http://jsfiddle.net/derekgreer/Yvhwy/).
 
-[Original Article](http://aspiringcraftsman.com/2011/12/08/solid-javascript-single-responsibility-principle/)
+[Original Article](http://aspiringcraftsman.com/2011/12/08/solid-javascript-single-responsibility-principle/).
