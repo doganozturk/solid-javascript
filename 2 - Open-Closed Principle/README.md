@@ -6,4 +6,4 @@
 
 [JSFiddle Link](http://jsfiddle.net/derekgreer/Yvhwy/).
 
-[Original Article](http://aspiringcraftsman.com/2011/12/19/solid-javascript-the-openclosed-principle/)
+[Original Article](http://aspiringcraftsman.com/2011/12/19/solid-javascript-the-openclosed-principle/).
